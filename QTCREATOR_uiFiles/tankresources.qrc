@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>valve_open.png</file>
+        <file>valve_close.png</file>
+        <file>tankview.png</file>
+        <file>off.png</file>
+        <file>on.png</file>
+    </qresource>
+</RCC>

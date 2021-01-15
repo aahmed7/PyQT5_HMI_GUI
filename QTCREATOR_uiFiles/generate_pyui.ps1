@@ -1,0 +1,1 @@
+Get-ChildItem *.ui | foreach-object { pyuic5 $_ -o $_.BaseName }
